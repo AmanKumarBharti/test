@@ -14,3 +14,7 @@ bubbleSort(array)
 print ("Sorted array is:") 
 for i in range(len(array)): 
     print ("%d" %array[i]), 
+    
+    
+    
+    //Time complexity= O(n)
